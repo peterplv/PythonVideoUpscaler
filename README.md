@@ -18,6 +18,7 @@ Examples of upscaled images by 2x, before and after:
 English manual:  
 [Upscaling Video DVD to HD Using Neural Networks, Python and FFmpeg](https://peterplv.github.io/2026/04/28/upscale-video-dvd-to-hd)
 <br>
+<br>
 Инструкция на русском (Russian manual):  
 [Апскейл видео из DVD в HD/4K современными нейросетями](https://habr.com/ru/articles/904784/)
 <br>
