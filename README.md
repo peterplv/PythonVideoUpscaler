@@ -25,7 +25,7 @@ English manual:
 <br>
 <br>
 <br>
-Upscaled image by 2x, before and after, in an animated GIF:
+Upscaled image by 2x, before and after, in animated GIF:
 <br>
 <br>
 <img width="960" alt="Upscaled Image" src="https://github.com/user-attachments/assets/b9f46f87-c9cb-4707-a43f-c953908fdb5d" />
