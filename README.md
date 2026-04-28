@@ -1,7 +1,7 @@
 # PythonVideoUpscaler
 ### Neural Network Video Upscaler in Python + FFmpeg
 <br>
-### Manuals
+### Manuals  
 English manual:  
 [Upscaling Video DVD to HD Using Neural Networks, Python and FFmpeg](https://peterplv.github.io/2026/04/28/upscale-video-dvd-to-hd)
 <br>
