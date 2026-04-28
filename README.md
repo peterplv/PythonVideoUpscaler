@@ -1,5 +1,6 @@
 # PythonVideoUpscaler
-Neural network video upscaler in Python + FFmpeg
+### Neural network video upscaler in Python + FFmpeg
+<br>
 <br>
 Examples of upscaled images by 2x, before and after:
 <img width="1029" height="668" alt="Upscaled Image" src="https://github.com/user-attachments/assets/1e507bb9-c6fe-4a19-92e9-7d33c8114b3f" />
